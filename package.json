@@ -10,6 +10,7 @@
   "description": "",
   "packageManager": "yarn@1.22.21+sha1.1959a18351b811cdeedbd484a8f86c3cc3bbaf72",
   "dependencies": {
+    "express": "^4.19.2",
     "nodemon": "^3.1.4",
     "socket.io": "^4.7.5"
   }
